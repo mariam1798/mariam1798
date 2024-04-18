@@ -12,13 +12,16 @@ From healing smiles to coding applications, I've transitioned into software deve
 ## 🛠️ Skills
 - **Languages:** HTML, CSS, Sass, JavaScript, React JS, Node.js
 - **Tools:** REST APIs, MySQL, Agile Development, DOM APIs, Web APIs, OAuth, Heroku, GitHub, Jest
-- 
-## 🌟 what I am currently working on 
+
+## 🌟 What I Am Currently Working On
 Higher is a pioneering platform that reimagines the traditional job application process by blending the professional networking capabilities of LinkedIn with the dynamic, video-based engagement of TikTok.
 
-
-<div style="border: 1px solid grey; padding:  1rem ; margin: 1rem 0; background-color: #d0bcff;">
-  <p><strong>Higher</strong>https://github.com/mariam1798/higher-frontend
-https://github.com/mariam1798/higher-api</p>
+<div style="border: 2px solid #4B0082; padding: 10px; margin-top: 10px; background-color: #f3e5f5; border-radius: 8px; color: #4B0082;">
+  <h3 style="color: #4B0082;">🌐 Current Projects</h3>
+  <p><strong>Higher</strong> - A revolutionary job platform. Check it out here:</p>
+  <ul>
+    <li><a href="https://github.com/mariam1798/higher-frontend" style="color: #6a0dad;">Frontend Repository</a></li>
+    <li><a href="https://github.com/mariam1798/higher-api" style="color: #6a0dad;">API Repository</a></li>
+  </ul>
 </div>
 
