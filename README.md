@@ -15,8 +15,10 @@ From healing smiles to coding applications, I've transitioned into software deve
 - 
 ## 🌟 what I am currently working on 
 Higher is a pioneering platform that reimagines the traditional job application process by blending the professional networking capabilities of LinkedIn with the dynamic, video-based engagement of TikTok.
-<div style="border: 1px solid grey; padding: 10px; margin: 10px 0; background-color: #f9f9f9;">
-  <p><strong>Note:</strong>https://github.com/mariam1798/higher-frontend
+
+
+<div style="border: 1px solid grey; padding:  1rem ; margin: 1rem 0; background-color: #d0bcff;">
+  <p><strong>Higher</strong>https://github.com/mariam1798/higher-frontend
 https://github.com/mariam1798/higher-api</p>
 </div>
 
