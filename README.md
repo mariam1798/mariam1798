@@ -13,6 +13,7 @@ From healing smiles to coding applications, I've transitioned into software deve
 - **Languages:** HTML, CSS, Sass, JavaScript, React JS, Node.js
 - **Tools:** REST APIs, MySQL, Agile Development, DOM APIs, Web APIs, OAuth, Heroku, GitHub, Jest
 - 
-## 🌟 Projects
-
-- **Higher : Job Application Platform** | Capstone project featuring a full-stack design using React, MySQL, Express, and more for innovative job search solutions.
+## 🌟 what I am currently working on 
+Higher is a pioneering platform that reimagines the traditional job application process by blending the professional networking capabilities of LinkedIn with the dynamic, video-based engagement of TikTok.
+https://github.com/mariam1798/higher-frontend
+https://github.com/mariam1798/higher-api
